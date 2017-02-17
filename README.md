@@ -212,7 +212,7 @@ The Android Virtual Device (AVD) lets you test the app on the computer instead o
     ```
     installation was a **success**! Just a little bit more.
 
-8. Add the emulator command line options.  
+8. Add the emulator command line options.
     1. In Android Studio, go to Run > Edit Configurations.
     2. To set as global default for all projects, select "Android Application" under "Defaults".
     3. Go to the emulator tab, check "Additional command line options" and add:
@@ -249,3 +249,21 @@ The Android Virtual Device (AVD) lets you test the app on the computer instead o
     "Nexus_5_API_21" is a sample name for the AVD created. Replace it with your AVD's name replacing spaces with underscores. 
     
     It shouldn't take more than a minute to start up. If the screen goes all gibberish, just swipe up (Android Lollipop unlock gesture) and the home screen should appear before you.
+
+
+License
+=======
+
+    Copyright 2017 PULKIT KUMAR
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
